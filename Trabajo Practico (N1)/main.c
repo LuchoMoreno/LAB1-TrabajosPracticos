@@ -106,6 +106,12 @@ int main()
             printf("SE HAN REESTABLECIDO LOS VALORES CARGADOS\n");
             numeroA = 0;
             numeroB = 0;
+            resultadoSuma = 0;
+            resultadoResta = 0;
+            resultadoDivision = 0;
+            resultadoMultiplicar = 0;
+            resultadoFactorialA = 0;
+            resultadoFactorialB = 0;
             printf(":::::::::::::::::::::::::::::::::::::::::::::::::::::\n\n");
             break;
 
