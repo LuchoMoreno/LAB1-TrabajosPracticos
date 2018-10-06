@@ -3,7 +3,7 @@
 
 #include "ArrayEmployees.h"
 
-#define A 6
+#define A 100
 
 int main()
 {
