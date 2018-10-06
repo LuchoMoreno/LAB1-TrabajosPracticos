@@ -177,7 +177,7 @@ int addEmployeesModificado(Employee* listaEmployee,int tam)
         fflush(stdin);
         gets(auxiliarSector);
         //Validar que se haya ingresado un PUESTO correcto.
-        while(esNumerico(auxiliarSector)==0 || strlen(auxiliarSector)>2)
+        while(esNumerico(auxiliarSector)==0)
         {
             printf("Usted ha ingresado un tipo de puesto incorrecto. Ingrese nuevamente: ");
             fflush(stdin);
@@ -514,6 +514,11 @@ int sortEmployees(Employee* list, int len, int order)
             }
         }
         break;
+
+    default:
+        printf("\n\nNO SE REALIZARON MODIFICACIONES. Se mostrara la lista sin ordenar.\n");
+        break;
+
 
 
     }

@@ -7,10 +7,19 @@
 
 int main()
 {
+
+    int i;
+
     int comprobarInicializacion;
     int comprobarIngreso;
     int comprobarBaja;
     int comprobarModificacion;
+
+    int acumuladorSalario = 0;
+    int contadorSalario = 0;
+    float promedioSalario = 0;
+    int contadorSalariosQueSuperanPromedio = 0;
+
 
     Employee listaEmployees[A];
 
@@ -129,6 +138,36 @@ int main()
 
         case '6':
 
+        for (i=0; i<A; i++)
+        {
+            if (listaEmployees[i].isEmpty == 1)
+            {
+            acumuladorSalario = listaEmployees[i].salary + acumuladorSalario;
+            contadorSalario++;
+            }
+        }
+
+        promedioSalario = (acumuladorSalario / contadorSalario);
+
+        for (i=0; i<A; i++)
+        {
+            if (listaEmployees[i].isEmpty == 1 )
+            {
+                if (listaEmployees[i].salary > promedioSalario)
+                {
+                    contadorSalariosQueSuperanPromedio++;
+                }
+            }
+        }
+
+
+        printEmployees(listaEmployees, A);
+
+        printf("\n:::::::::::::::::::::::::::::::::::::::::::::::::::::\n");
+        printf("El TOTAL de dinero en sueldo es: %d\n", acumuladorSalario);
+        printf("El PROMEDIO por empleado es: %f\n", promedioSalario);
+        printf("La CANTIDAD de empleados que superan el sueldo promedio es: %d\n", contadorSalariosQueSuperanPromedio);
+        printf(":::::::::::::::::::::::::::::::::::::::::::::::::::::\n\n\n");
             break;
 
 

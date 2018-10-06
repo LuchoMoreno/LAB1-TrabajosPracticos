@@ -37,25 +37,25 @@ free space] - (0) if Ok
 
 
 
-/** \brief
+/** \brief Inicializa la estructura Employee
  *
- * \param
- * \param
- * \return
+ * \param list Employee* Puntero que apunta a la estructura de empleados
+ * \param int limite del puntero.
+ * \return void
  *
  */
 void inicializarEmployeesConDatos (Employee*, int);
 
 
 
-/** \brief
+/** \brief Obtiene el primer indice libre del array.
  *
- * \param
- * \param
- * \return
+ * \param Employee* Puntero que apunta a la estructura de empleados
+ * \param int limite del puntero.
+ * \return (-1) si no hay espacio - Indice si lo hay.
  *
  */
-int buscarEspacio (Employee* listaEmployee, int tam);
+int buscarEspacio (Employee*, int);
 
 
 
@@ -95,7 +95,7 @@ int idAutoIncremental(Employee*, int);
  *
  * \param Employee* Puntero que apunta a la estructura de empleados.
  * \param int limite del puntero.
- * \return int
+ * \return int (0) si fue ingresado - (-1) Si no hay espacio.
  *
  */
 int addEmployeesModificado(Employee*, int);
