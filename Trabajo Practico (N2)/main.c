@@ -15,11 +15,10 @@ int main()
     int comprobarBaja;
     int comprobarModificacion;
 
-    int acumuladorSalario = 0;
-    int contadorSalario = 0;
-    float promedioSalario = 0;
-    int contadorSalariosQueSuperanPromedio = 0;
-
+    int acumuladorSalario;
+    int contadorSalario;
+    float promedioSalario;
+    int contadorSalariosQueSuperanPromedio;
 
     Employee listaEmployees[A];
 
@@ -137,6 +136,12 @@ int main()
             break;
 
         case '6':
+
+        acumuladorSalario = 0;
+        contadorSalario = 0;
+        promedioSalario = 0;
+        contadorSalariosQueSuperanPromedio = 0;
+
 
         for (i=0; i<A; i++)
         {
