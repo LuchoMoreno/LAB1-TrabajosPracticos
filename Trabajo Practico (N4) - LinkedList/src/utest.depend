@@ -4353,3 +4353,249 @@
 	<string.h>
 	"../inc/LinkedList.h"
 
+1542283066 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\addnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283066 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\utest.h
+
+1542283069 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\inc\linkedlist.h
+
+1542283068 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\employee.h
+
+1542283066 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\addtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283067 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\cleartest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283066 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\clonetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283066 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\containsalltest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283066 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\containstest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283067 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\deletelinkedlisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283067 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/Employee.h"
+
+1542283067 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\getnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283066 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\gettest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283066 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\indexoftest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283067 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\isemptytest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283066 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\lentest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283067 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\main_test.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	"../inc/newTest.h"
+	"../inc/addTest.h"
+	"../inc/getNodeTest.h"
+	"../inc/addNodeTest.h"
+	"../inc/deleteLinkedListTest.h"
+	"../inc/lenTest.h"
+	"../inc/getTest.h"
+	"../inc/containsTest.h"
+	"../inc/setTest.h"
+	"../inc/removeTest.h"
+	"../inc/clearTest.h"
+	"../inc/cloneTest.h"
+	"../inc/pushTest.h"
+	"../inc/indexOfTest.h"
+	"../inc/isEmptyTest.h"
+	"../inc/popTest.h"
+	"../inc/subListTest.h"
+	"../inc/containsAllTest.h"
+	"../inc/sortTest.h"
+
+1542283067 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\newtest.h
+
+1542283067 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\addtest.h
+
+1542283067 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\getnodetest.h
+
+1542283069 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\addnodetest.h
+
+1542283067 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\deletelinkedlisttest.h
+
+1542283068 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\lentest.h
+
+1542283069 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\gettest.h
+
+1542283067 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\containstest.h
+
+1542283067 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\settest.h
+
+1542283067 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\removetest.h
+
+1542283068 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\cleartest.h
+
+1542283068 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\clonetest.h
+
+1542283067 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\pushtest.h
+
+1542283067 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\indexoftest.h
+
+1542283067 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\isemptytest.h
+
+1542283068 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\poptest.h
+
+1542283067 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\sublisttest.h
+
+1542283067 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\containsalltest.h
+
+1542283067 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\sorttest.h
+
+1542283066 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\newtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+
+1542283066 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\poptest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283067 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\pushtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283066 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\removetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283066 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\settest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283066 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\sorttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283066 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\src\sublisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1542283066 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\utest.c
+	"utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542283186 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/LinkedList.h"
+
+1542284083 source:c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../testing/inc/main_test.h"
+	"../inc/LinkedList.h"
+
+1542283067 c:\users\alumno\desktop\trabajo practico (n4) - linkedlist\testing\inc\main_test.h
+
