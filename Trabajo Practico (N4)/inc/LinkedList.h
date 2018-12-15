@@ -299,6 +299,11 @@ int ll_sort(LinkedList* this, int (*pFunc)(void* ,void*), int order);
 
 
 
+
+int ll_map(LinkedList* this, void (*pFunc)(void*));
+
+
+
 /** \brief Filtro de la lista original.
  *
  * \param Lista  nueva lista Linkedlist.
@@ -307,4 +312,4 @@ int ll_sort(LinkedList* this, int (*pFunc)(void* ,void*), int order);
  * \return -1 Error: si el puntero a la listas es NULL.
             agrega el elemento.
  */
-LinkedList* ll_filter(LinkedList* lista, int(*pFunc)(void*));
+LinkedList* ll_filter(LinkedList* this, int (*pFunc)(void*,int), int aux);
